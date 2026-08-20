@@ -193,3 +193,4 @@ int main() {
 
 */
 
+// maintenance note (1): minor readability pass on this file — 2026-08-20
