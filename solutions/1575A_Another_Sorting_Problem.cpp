@@ -71,4 +71,4 @@ int main()
 		else cout << "\n";
 	}
 	return 0;
-}
+}// maintenance note (6): add editorial link comment to this file — 2026-09-02
