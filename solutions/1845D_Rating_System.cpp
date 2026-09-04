@@ -65,3 +65,4 @@ int main()
 	repn(i, 1, T) solve();
 	return 0;
 }
+// maintenance note (7): add edge-case comment to this file — 2026-09-04
