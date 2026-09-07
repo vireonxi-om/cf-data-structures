@@ -119,4 +119,4 @@ int main() {
 	}
 	repn(i, 1, q) cout << ans[i] << "\n";
 	return 0;
-}
+}// maintenance note (8): note time complexity in this file — 2026-09-07
