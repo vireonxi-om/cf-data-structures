@@ -110,4 +110,4 @@ int main() {
 		else cout << "1\n";
 	}
 	return 0;
-}
+}// maintenance note (14): add complexity note to this file — 2026-09-22
