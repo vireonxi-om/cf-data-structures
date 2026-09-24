@@ -64,4 +64,4 @@ int main() {
 		else cout << "YES\n";
 	}
 	return 0;
-}
+}// maintenance note (15): note time complexity in this file — 2026-09-24
