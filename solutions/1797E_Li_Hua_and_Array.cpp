@@ -194,3 +194,4 @@ int main() {
 */
 
 // maintenance note (1): minor readability pass on this file — 2026-08-20
+// maintenance note (16): add complexity note to this file — 2026-09-27
