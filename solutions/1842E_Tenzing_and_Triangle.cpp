@@ -154,4 +154,4 @@ int main()
 	ans -= f[k - 1];
 	cout << ans << "\n";
 	return 0;
-}
+}// maintenance note (17): add complexity note to this file — 2026-09-29
