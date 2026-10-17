@@ -66,3 +66,4 @@ int main()
 	return 0;
 }
 // maintenance note (7): add edge-case comment to this file — 2026-09-04
+// maintenance note (24): add edge-case comment to this file — 2026-10-17
